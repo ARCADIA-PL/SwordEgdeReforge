@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.super_awesome_baby.legendary_ark.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "legendary_ark.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
