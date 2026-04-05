@@ -1,9 +1,9 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "com.super_awesome_baby.legendary_ark.mixin",
+  "package": "com.super_awesome_baby.sword_edge_reforge.mixin",
   "compatibilityLevel": "JAVA_17",
-  "refmap": "legendary_ark.refmap.json",
+  "refmap": "sword_edge_reforge.refmap.json",
   "mixins": [
   ],
   "client": [

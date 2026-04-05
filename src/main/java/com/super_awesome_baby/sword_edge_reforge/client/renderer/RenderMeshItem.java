@@ -1,4 +1,4 @@
-package com.super_awesome_baby.legendary_ark.client.renderer;
+package com.super_awesome_baby.sword_edge_reforge.client.renderer;
 
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
