@@ -78,6 +78,8 @@ dependencies {
     implementation fg.deobf("curse.maven:embeddium-908741:5681725")
     implementation fg.deobf("curse.maven:mmmmmmmmmmmm-225738:6237015")
     implementation fg.deobf("curse.maven:selene-499980:6283242")
+    implementation fg.deobf('libs:efx:1.1.5')
+    implementation fg.deobf('libs:efp:1.0.0')
 
     annotationProcessor 'org.spongepowered:mixin:0.8.5:processor'
 }
