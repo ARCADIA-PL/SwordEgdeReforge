@@ -2,6 +2,7 @@
 	"renderer": "sword_edge_reforge:mesh_item",
 	"mesh1_texture": "sword_edge_reforge:textures/item/iron_sword.png",
 	"mesh1_main":"sword_edge_reforge:weapon/iron_sword",
+	"mesh1_off": "sword_edge_reforge:weapon/iron_sword_l",
     "trail": {
     	"color": [216, 216, 216],
     	"begin_pos": [0.0, 0.1, -0.1],
