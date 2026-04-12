@@ -4,12 +4,12 @@
 	"mesh1_main":"sword_edge_reforge:weapon/golden_sword",
 	"mesh1_off":"sword_edge_reforge:weapon/golden_sword_l",
 	"trail": {
-    	"color": [253, 255, 118],
-    	"begin_pos": [0.0, 0.1, -0.1],
-    	"end_pos": [0.0, -0.05, -0.95],
+    	"color": [255, 249, 172],
+		"begin_pos": [0.0, 0.0, -0.1],
+		"end_pos": [0.0, 0.2, -1.25],
     	"lifetime": 4,
-		"interpolations": 5,
-    	"texture_path": "epicfight:textures/particle/swing_trail.png",
+		"interpolations": 1,
+		"texture_path": "sword_edge_reforge:textures/trail/swing_trail_1.png",
     	"particle_type": "epicfight:swing_trail"
     }
 }
