@@ -3,12 +3,13 @@
 	"mesh1_texture": "sword_edge_reforge:textures/item/iron_dagger.png",
 	"mesh1_main":"sword_edge_reforge:weapon/iron_dagger",
 	"mesh1_off": "sword_edge_reforge:weapon/iron_dagger_l",
-    	"color": [216, 216, 216],
+	"trail": {
+		"color": [238, 242, 255],
     	"begin_pos": [0.0, 0.0, -0.2],
     	"end_pos": [0.0, 0.1, -0.7],
     	"lifetime": 4,
 		"interpolations": 4,
-    	"texture_path": "epicfight:textures/particle/swing_trail.png",
+	    "texture_path": "sword_edge_reforge:textures/trail/swing_trail_1.png",
     	"particle_type": "epicfight:swing_trail"
     }
 }
