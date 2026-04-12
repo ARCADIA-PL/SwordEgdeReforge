@@ -81,6 +81,7 @@ dependencies {
     implementation fg.deobf('libs:efx:1.1.5')
     implementation fg.deobf('libs:efp:1.0.0')
     implementation fg.deobf('libs:efn:3.2.5')
+    implementation fg.deobf('libs:invincible:14.8.2')
 
     annotationProcessor 'org.spongepowered:mixin:0.8.5:processor'
 }
