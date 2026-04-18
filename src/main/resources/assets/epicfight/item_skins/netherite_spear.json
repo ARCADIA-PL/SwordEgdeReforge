@@ -4,11 +4,11 @@
 	"mesh1_main":"sword_edge_reforge:weapon/netherite_spear",
     "trail": {
 		"color": [255, 192, 187],
-    	"begin_pos": [0.0, 0.2, -0.9],
-    	"end_pos": [0.0, 0.25, -2.0],
-    	"lifetime": 6,
+		"begin_pos": [0.0, 0.2, -0.7],
+		"end_pos": [0.0, 0.3, -1.8],
+		"lifetime": 4,
 		"interpolations": 4,
-		"texture_path": "sword_edge_reforge:textures/trail/swing_trail_1.png",
-    	"particle_type": "epicfight:swing_trail"
+		"texture_path": "sword_edge_reforge:textures/trail/swing_trail_5.png",
+		"particle_type": "epicfight:swing_trail"
     }
 }

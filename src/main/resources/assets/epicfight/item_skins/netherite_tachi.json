@@ -5,10 +5,10 @@
     "trail": {
 		"color": [255, 192, 187],
     	"begin_pos": [0.0, 0.0, -0.2],
-    	"end_pos": [0.0, 0.4, -1.75],
-    	"lifetime": 6,
+    	"end_pos": [0.0, 0.4, -1.82],
+    	"lifetime": 4,
 		"interpolations": 4,
-		"texture_path": "sword_edge_reforge:textures/trail/swing_trail_1.png",
+		"texture_path": "sword_edge_reforge:textures/trail/swing_trail_6.png",
     	"particle_type": "epicfight:swing_trail"
     }
 }

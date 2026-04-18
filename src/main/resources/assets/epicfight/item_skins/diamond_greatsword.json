@@ -4,11 +4,11 @@
 	"mesh1_main":"sword_edge_reforge:weapon/diamond_greatsword",
     "trail": {
 		"color": [217, 253, 255],
-    	"begin_pos": [0.0, 0.0, -0.2],
-    	"end_pos": [0.0, -0.24, -1.8],
-    	"lifetime": 6,
+		"begin_pos": [0.0, 0.0, -0.0],
+		"end_pos": [0.0, 0.5, -2.1],
+		"lifetime": 4,
 		"interpolations": 4,
-		"texture_path": "sword_edge_reforge:textures/trail/swing_trail_1.png",
-    	"particle_type": "epicfight:swing_trail"
+		"texture_path": "sword_edge_reforge:textures/trail/swing_trail_2.png",
+		"particle_type": "epicfight:swing_trail"
     }
 }

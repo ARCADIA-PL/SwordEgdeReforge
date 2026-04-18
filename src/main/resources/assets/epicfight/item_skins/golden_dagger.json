@@ -5,11 +5,11 @@
 	"mesh1_off": "sword_edge_reforge:weapon/golden_dagger_l",
 	"trail": {
 		"color": [255, 249, 172],
-    	"begin_pos": [0.0, 0.0, -0.2],
-    	"end_pos": [0.0, 0.1, -0.7],
-    	"lifetime": 4,
+		"begin_pos": [0.0, 0.0, -0.0],
+		"end_pos": [0.0, 0.1, -0.82],
+		"lifetime": 4,
 		"interpolations": 4,
-		"texture_path": "sword_edge_reforge:textures/trail/swing_trail_1.png",
-    	"particle_type": "epicfight:swing_trail"
+		"texture_path": "sword_edge_reforge:textures/trail/swing_trail_3.png",
+		"particle_type": "epicfight:swing_trail"
     }
 }

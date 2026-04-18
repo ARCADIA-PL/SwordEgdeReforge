@@ -4,11 +4,11 @@
 	"mesh1_main":"sword_edge_reforge:weapon/stone_tachi",
     "trail": {
 		"color": [146, 158, 150],
-    	"begin_pos": [0.0, 0.0, -0.2],
-    	"end_pos": [0.0, 0.4, -1.75],
-    	"lifetime": 6,
+		"begin_pos": [0.0, 0.0, -0.2],
+		"end_pos": [0.0, 0.4, -1.75],
+		"lifetime": 4,
 		"interpolations": 4,
-		"texture_path": "sword_edge_reforge:textures/trail/swing_trail_1.png",
-    	"particle_type": "epicfight:swing_trail"
+		"texture_path": "sword_edge_reforge:textures/trail/swing_trail_6.png",
+		"particle_type": "epicfight:swing_trail"
     }
 }

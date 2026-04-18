@@ -7,8 +7,8 @@
 		"begin_pos": [0.0, 0.0, -0.2],
 		"end_pos": [0.0, 0.4, -1.75],
 		"lifetime": 4,
-		"interpolations": 1,
-		"texture_path": "sword_edge_reforge:textures/trail/swing_trail_1.png",
+		"interpolations": 4,
+		"texture_path": "sword_edge_reforge:textures/trail/swing_trail_6.png",
 		"particle_type": "epicfight:swing_trail"
     }
 }
