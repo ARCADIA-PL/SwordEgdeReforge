@@ -1,8 +1,8 @@
 {
-	"renderer": "sword_edge_reforge:mesh_item",
-	"mesh1_texture": "sword_edge_reforge:textures/item/uchigatana.png",
-	"mesh1_main":"sword_edge_reforge:weapon/uchigatana",
-    "trail": {
+	"renderer": "epicfightx:uchigatana_x",
+	"sheath": "epicfight:uchigatana_sheath",
+	"sheath_alter": "epicfightx:uchigatana_sheath_alter",
+  "trail": {
 		"color": [238, 242, 255],
     	"begin_pos": [0.0, 0.0, -0.2],
     	"end_pos": [0.0, 0.1, -1.8],
@@ -10,5 +10,19 @@
 		"interpolations": 1,
 		"texture_path": "sword_edge_reforge:textures/trail/katana_trail_1.png",
     	"particle_type": "epicfight:swing_trail"
+    },
+    "transforms": {
+    	"offhand": {
+	    	"Chest": {
+	    		"translation": [0.155, 0.165, 0.145],
+	    		"rotation": [-50.0, -86.0, 3.0],
+	    		"scale": [1, 1, 1]
+	    	},
+			"Tool_L": {
+				"translation": [0, 0.001, -0.225],
+				"rotation": [85, 177, 0],
+				"scale": [1, 1, 1]
+			}
+    	}
     }
 }
