@@ -9,7 +9,7 @@
     "gui": {
       "parent": "item/generated",
       "textures": {
-        "layer0": "epicfight:item/uchigatana"
+        "layer0": "sword_edge_reforge:item/uchigatana_gui"
       },
       "gui_light": "front"
     }
